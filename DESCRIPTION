@@ -1,0 +1,11 @@
+Package: learningMedicine
+Type: Package
+Title: Machine Learning Assisted Clinical Medicine Tools
+Version: 2.3
+Date: 2017-11-26
+Author: D Fantini
+Maintainer: D Fantini <damiano.fantini@gmail.com>
+Description: Collection of Tools for the Experfy Course in Machine Learning Assisted Clinical Medicine. For more information, check the Experfy Website or contact the author.
+License: GPL-2
+Imports: mice
+
